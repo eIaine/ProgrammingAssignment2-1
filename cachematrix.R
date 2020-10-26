@@ -34,3 +34,4 @@ cacheSolve <- function(x, ...) {
   x$setinverse(i)
   i
 }
+git push -u eIaine-edited-assignment2
